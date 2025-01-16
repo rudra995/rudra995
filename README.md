@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - I'm currently an Undergrad CSE student at Manipal Institute of Technology
+ - I'm interested and currently learning Machine Learning and implementation using Artificial Intelligence
+ - If you are interested in collaborating on a project or a research paper, reach out to me.
+ - Where to reach me : solankirudra66@gmail.com
+ - Linkedin : https://www.linkedin.com/in/rudrasolanki
